@@ -9,4 +9,7 @@ public class First {
         System.out.println("hello,SB zhanghaitao");
 
     }
-}
+
+    public void test() {
+        System.out.println("you are right!");
+    }}
