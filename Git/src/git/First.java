@@ -8,8 +8,11 @@ public class First {
         System.out.println("hello,SB zhanghaitao");
         System.out.println("hello,SB zhanghaitao");
 
+        //大家一致认同
+        test();
+
     }
 
-    public void test() {
+    public static void test() {
         System.out.println("you are right!");
     }}
